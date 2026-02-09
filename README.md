@@ -53,7 +53,7 @@
 
 ### Решение 2
 
-[Файл gitlab.ci](https://github.com/ZmAkser/8-03-MRA/blob/main/.gitlab-ci.yml)
+[Файл gitlab.ci](https://github.com/ZmAkser/8-03-MRA/blob/main/.gitlab-ci.yml%20)
 
 ![alt text](https://github.com/ZmAkser/8-03-MRA/blob/main/img/GitLab_Pipeline_MRA.png)
 
