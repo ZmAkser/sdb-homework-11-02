@@ -43,7 +43,7 @@
 5. На проверку направить файл crontab и скриншот с результатом работы утилиты.
 
 
-### Решение 2-3
+### Решение 2
 
 ![alt text](https://github.com/ZmAkser/sflt-homeworks_3/blob/main/img/cronjob.png)
 
